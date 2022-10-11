@@ -1,0 +1,43 @@
+body {
+    background-image: url("cupang 3.jpg");
+    background-repeat: repeat-x;
+}
+
+.Awal {
+    background-color: rgb(46, 27, 99);
+    color: white;
+    width: 24%;
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-left: 600px;
+    height: 280px;
+}
+
+.Awal table {
+    padding: 0;
+    margin-left: 20%;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+.Awal table .judul {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.Awal table tr td {
+    padding-left: 10px;
+    width: fit-content;
+    padding-bottom: 10px;
+    font-size: 20px;   
+
+}
+table{
+    position: absolute;
+    left: 20%;
+
+}
